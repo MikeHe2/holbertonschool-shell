@@ -1,2 +1,2 @@
-Esto es un directorio que voy a utilizar para hacer el proyecto de 'SHEll, BASICS'.  Estare creando unos scripts.
+Esto es un directorio que voy a utilizar para hacer e proyecto de 'SHEll, BASICS'.  Estare creando unos scripts.
 

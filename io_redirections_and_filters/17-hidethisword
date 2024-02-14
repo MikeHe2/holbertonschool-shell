@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p
+rep -v bin /etc/passwd
